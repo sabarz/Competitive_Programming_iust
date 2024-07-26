@@ -1,0 +1,16 @@
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.exe
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.deps.json
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.runtimeconfig.json
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.runtimeconfig.dev.json
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.dll
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\ref\A.dll
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\bin\Debug\net5.0\A.pdb
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.csproj.AssemblyReference.cache
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.GeneratedMSBuildEditorConfig.editorconfig
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.AssemblyInfoInputs.cache
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.AssemblyInfo.cs
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.csproj.CoreCompileInputs.cache
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.dll
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\ref\A.dll
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.pdb
+E:\saba folder\univercity\term 5 4003\PPC\contests\Educational Codeforces Round 137\A\A\obj\Debug\net5.0\A.genruntimeconfig.cache
